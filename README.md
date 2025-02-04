@@ -1,6 +1,6 @@
 # 🚨Landslide Detection System with SMS and Call Alert
 
-Welcome to the **Landslide Detection System** repository! This project uses ultrasonic sensors and a SIM800L GSM module to detect potential landslides and send alerts via SMS and phone calls. 🚧📱
+Welcome to the **Landslide Detection System** repository! This project uses ultrasonic sensors and a SIM800L GSM module to detect potential landslides and send alerts via SMS and phone calls.🚧📱
 
 ---
 
